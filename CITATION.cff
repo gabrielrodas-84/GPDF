@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+title: "Governed Process Design Framework (GPDF)"
+message: "If you use or reference this framework, please cite it as below."
+type: software
+authors:
+  - family-names: "Rodas"
+    given-names: "Gabriel"
+    email: "gabriel.rodas@comunidad.ub.edu.ar"
+    orcid: ""
+    affiliation: "Independent Author"
+version: "1.0.0"
+date-released: "2026-05-01"
+license: "CC-BY-NC-ND-4.0"
+url: "https://github.com/gabrielrodas-84/GPDF"
+repository-code: "https://github.com/gabrielrodas-84/GPDF"
+abstract: >-
+  The Governed Process Design Framework (GPDF) is a design pattern and operating
+  model for building governed, request-based business processes using structured
+  data, modular orchestration, and rule-driven decisions. It provides a 6-layer
+  architecture (User, Data, Orchestration, Governance, Intelligence, Output) and a
+  standardized lifecycle (Intake, Decision, Execution, Closure) for replacing
+  email-based approvals with auditable, consistent, and scalable decision flows.
+  Registered at DNDA Argentina. Licensed under CC BY-NC-ND 4.0.
+keywords:
+  - process-governance
+  - framework
+  - order-to-cash
+  - OTC
+  - automation
+  - lean-six-sigma
+  - business-process-management
+  - decision-flows
+  - auditability
+  - GPDF
