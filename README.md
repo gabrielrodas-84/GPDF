@@ -1,5 +1,7 @@
 # Governed Process Design Framework (GPDF) v1.0
 
+https://zenodo.org/badge/DOI/10.5281/zenodo.20594487.svg](https://doi.org/10.5281/zenodo.20594487)
+
 **A Structured Approach to Process Governance for Request-Based Workflows**
 
 ---
