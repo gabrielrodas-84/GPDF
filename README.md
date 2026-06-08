@@ -110,21 +110,25 @@ authorship, creation date, and content integrity under Argentine copyright law
 
 © 2026 Gabriel Rodas. All rights reserved.
 
-This work is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives
-4.0 International License (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+This work is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)]
 
-**You are free to:**
+(https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+You are free to:
+
 - **Share** — Copy and redistribute this material in any medium or format
 
-**Under the following terms:**
-- **Attribution** — You must give appropriate credit to the author (Gabriel Rodas),
-  provide a link to the license, and indicate if changes were made
+Under the following terms:
+
+- **Attribution** — You must give appropriate credit to the author (Gabriel Rodas), provide a link to the license, and indicate if changes were made
 - **NonCommercial** — You may not use this material for commercial purposes
-- **NoDerivatives** — If you remix, transform, or build upon this material, you may
-  not distribute the modified material
+- **NoDerivatives** — If you remix, transform, or build upon this material, you may not distribute the modified material
+
+📌 **Registered at the Dirección Nacional del Derecho de Autor (DNDA), Argentina.**
+
+📎 **Cite this work:** [DOI: 10.5281/zenodo.20594487](https://doi.org/10.5281/zenodo.20594487)
 
 For permissions beyond the scope of this license, contact the author.
-
 ---
 
 ## 🤝 Contributing
